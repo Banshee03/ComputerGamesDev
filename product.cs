@@ -7,5 +7,5 @@ public static class Constants
  
     public static readonly string StatusTapToStart = "Tap to start";
     public static readonly string StatusDeadTapToStart = "Dead. Tap to start";
-    public static readonly string StatusTapToStart = "Made by Ewan JOhnsotne , S6"
+    public static readonly string StatusTapToStart = "Made by Ewan Johnsotne , S6"
 }
